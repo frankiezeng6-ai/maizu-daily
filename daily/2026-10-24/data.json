@@ -97,5 +97,110 @@
     "url": "https://www.douban.com/group/topic/502551367/"
    }
   ]
+ },
+ "status": {
+  "headline": "买组车况速报",
+  "badge": "21:55",
+  "sub": "扫 152 条实时帖 / 114 条作业，只留还能上车的",
+  "generated_at": "2026-10-24 21:55",
+  "hot_title": "🔴 快没车了 · 优先下手",
+  "hot": [
+   {
+    "name": "兰蔻菁纯眼霜 48ml",
+    "price": "669",
+    "deadline": "今日",
+    "note": "车回，需plus，可更低"
+   },
+   {
+    "name": "得宝手帕纸 36包",
+    "price": "0.23/包",
+    "deadline": "今日",
+    "note": "车回，0.23一包好价"
+   },
+   {
+    "name": "迪巧OTC钙片120粒",
+    "price": "60",
+    "deadline": "今日",
+    "note": "车回见评论"
+   },
+   {
+    "name": "友望小白鲸除螨仪",
+    "price": "100零几",
+    "deadline": "今日",
+    "note": "车半回，50元价没了"
+   },
+   {
+    "name": "潮夫道肥牛卷",
+    "price": "14.5/盒",
+    "deadline": "今日",
+    "note": "车半回贵4r，叠4件55折+200-20"
+   },
+   {
+    "name": "苏菲安睡裤 42片",
+    "price": "60",
+    "deadline": "今日",
+    "note": "🚗半走，赠24片日用"
+   }
+  ],
+  "soon_title": "🟠 24h 内可能结束",
+  "soon": [
+   {
+    "name": "regenerate牙膏 2支",
+    "price": "5",
+    "deadline": "今日",
+    "note": "抖音6折券+惊喜加补，限时随机"
+   },
+   {
+    "name": "雅格二合一电蚊拍",
+    "price": "5",
+    "deadline": "今日",
+    "note": "刷50-30券+平台加补8元"
+   },
+   {
+    "name": "小罐茶 40袋",
+    "price": "8.7",
+    "deadline": "今日",
+    "note": "抖音下单走平台加补14"
+   },
+   {
+    "name": "LILYBYRED腮红膏",
+    "price": "28",
+    "deadline": "今日",
+    "note": "刷膨胀券60-36，返利5"
+   },
+   {
+    "name": "珀莱雅面霜170g",
+    "price": "200以下",
+    "deadline": "今日",
+    "note": "需弹限时8.8折，叠黑五200-20"
+   },
+   {
+    "name": "JD PLUS开卡礼",
+    "price": "60",
+    "deadline": "今日",
+    "note": "昨天才40，今天跳60"
+   }
+  ],
+  "gone_title": "⚪ 已走车（别白跑）",
+  "gone": [
+   {
+    "name": "得宝抽纸 90抽30包",
+    "price": "1/包",
+    "deadline": "已走",
+    "note": "车走了，plus 200-25那波结束"
+   },
+   {
+    "name": "石头P30pro水箱版",
+    "price": "2643",
+    "deadline": "暂跑",
+    "note": "🛻暂跑，等楼主新方法"
+   },
+   {
+    "name": "石头p20m / p30p",
+    "price": "2400+",
+    "deadline": "已走",
+    "note": "🚘走，🫘2800不到那波结束"
+   }
+  ]
  }
 }
